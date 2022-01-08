@@ -1,10 +1,10 @@
 {
-  "name": "full-auth",
+  "name": "demo",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "engines": {
-    "node": "15.x"
+    "node": "15.11.0"
   },
   "scripts": {
     "start": "node server.js",
